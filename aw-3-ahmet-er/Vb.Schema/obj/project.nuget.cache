@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HAT6yMRFibW8xHvO2Vcn7SUey+OciTzdDU1EcM4ocQAMx7hkc5HhIU/bCi2AKl62Zke4ItDGQ3MC6JMw/mQ6/w==",
+  "success": true,
+  "projectFilePath": "C:\\Project\\AkbankBootcamp\\aw-3-ahmet-er\\aw-3-ahmet-er\\Vb.Schema\\Vb.Schema.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ahmet\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

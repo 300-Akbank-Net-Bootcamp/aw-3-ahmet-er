@@ -1,0 +1,13 @@
+C:\Project\AkbankBootcamp\aw-3-ahmet-er\aw-3-ahmet-er\Vb.Base\bin\Debug\net7.0\Vb.Base.deps.json
+C:\Project\AkbankBootcamp\aw-3-ahmet-er\aw-3-ahmet-er\Vb.Base\bin\Debug\net7.0\Vb.Base.dll
+C:\Project\AkbankBootcamp\aw-3-ahmet-er\aw-3-ahmet-er\Vb.Base\bin\Debug\net7.0\Vb.Base.pdb
+C:\Project\AkbankBootcamp\aw-3-ahmet-er\aw-3-ahmet-er\Vb.Base\obj\Debug\net7.0\Vb.Base.csproj.AssemblyReference.cache
+C:\Project\AkbankBootcamp\aw-3-ahmet-er\aw-3-ahmet-er\Vb.Base\obj\Debug\net7.0\Vb.Base.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project\AkbankBootcamp\aw-3-ahmet-er\aw-3-ahmet-er\Vb.Base\obj\Debug\net7.0\Vb.Base.AssemblyInfoInputs.cache
+C:\Project\AkbankBootcamp\aw-3-ahmet-er\aw-3-ahmet-er\Vb.Base\obj\Debug\net7.0\Vb.Base.AssemblyInfo.cs
+C:\Project\AkbankBootcamp\aw-3-ahmet-er\aw-3-ahmet-er\Vb.Base\obj\Debug\net7.0\Vb.Base.csproj.CoreCompileInputs.cache
+C:\Project\AkbankBootcamp\aw-3-ahmet-er\aw-3-ahmet-er\Vb.Base\obj\Debug\net7.0\Vb.Base.sourcelink.json
+C:\Project\AkbankBootcamp\aw-3-ahmet-er\aw-3-ahmet-er\Vb.Base\obj\Debug\net7.0\Vb.Base.dll
+C:\Project\AkbankBootcamp\aw-3-ahmet-er\aw-3-ahmet-er\Vb.Base\obj\Debug\net7.0\refint\Vb.Base.dll
+C:\Project\AkbankBootcamp\aw-3-ahmet-er\aw-3-ahmet-er\Vb.Base\obj\Debug\net7.0\Vb.Base.pdb
+C:\Project\AkbankBootcamp\aw-3-ahmet-er\aw-3-ahmet-er\Vb.Base\obj\Debug\net7.0\ref\Vb.Base.dll
